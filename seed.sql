@@ -2,9 +2,9 @@ INSERT INTO department(name)
 VALUE ("Marketing"), ("Finance"), ("Operations"), ("HR"), ("Info Techn");
 
 INSERT INTO role(title, salary, department_id)
-VALUE("Marketing Manager", 300, 1),
+VALUE("Marketing", 300, 1),
      ("Account Manager", 130, 2),
-     ("Operation Manager", 120, 3),
+     ("Operation", 120, 3),
      ("Tester", 95, 5),
      ("Developer", 110, 5),
      ("Scrum Master", 90, 5),

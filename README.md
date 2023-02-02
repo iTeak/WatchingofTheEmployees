@@ -14,4 +14,8 @@ To be able to view and manage the departments, roles, and employees in my compan
 ## Reach me here: 
 https://github.com/iTeak
 
+
+## Link to the video
+(chrome-extension://mmeijimgabbpbgpdklnllpncmdofkcpn/app.html#/files/017f1689-0cc7-4a8e-yd90-3c1caf1c09e9)
+
  
